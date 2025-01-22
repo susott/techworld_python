@@ -1,1 +1,0 @@
-calculation_counter = 0
